@@ -1,0 +1,397 @@
+*{
+    font-family: sans-serif;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top: 25px;
+    width: 1300px;
+}
+.box2{
+    display: flex;
+    align-items: center;
+}
+.box3{
+    display: flex;
+    align-items: center;
+}
+.box1{
+    display: flex;
+    align-items: center;
+}
+.box4{
+    justify-content: space-between;
+    padding-left: 40px;
+}
+.box5{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly ;
+}
+.box7{
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    align-items: center;
+}
+
+button{
+    background-color: rgba(0, 0,0,0);
+    border: 1px;
+    font-size: medium;
+}
+/* .box13{
+    border: 1px;
+    color: #0C356A;
+    font-weight: lighter;
+} */
+.box14{
+    display: flex;
+    background-color:#053e56 ;
+    justify-content: space-around;
+    height: 500px;
+    gap: 20px;
+    width: 100%;
+}
+.box15{
+    align-self: center;
+    padding-bottom: 50px;
+    color: azure;
+
+}
+.box6{
+   padding-left: 20px;
+}
+.box16{
+    color: white;
+    padding-left: 50px;
+    font-family: sans-serif;
+}
+.box17{
+    align-self: center;
+}
+.box19{
+    padding-left: 60px;
+    color: greenyellow;
+    font-family: sans-serif;
+}
+.box18{
+    text-align: center;
+    margin-top: 50px;
+}
+.blue-text{
+    color: #053e56;
+}
+.orange-text{
+    color:orange;
+    font-family: cursive;
+    transition: 0.5s ease;
+}
+.orange-text:hover{
+    color:  #053e56;
+}
+.box21{
+   text-align: center;
+   margin-left: 100px;
+   margin-right: 100px;
+   font-family: sans-serif;
+}
+.box23{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+}
+.box24{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box25{
+    display:flex;
+    justify-content: space-evenly;
+}
+.box28{
+    text-align: center;
+}
+.box29{
+    text-align: center;
+}
+.box30{
+    text-align: center;
+}
+.box33{
+        color: orange; /* Initial color */
+        transition: color 1s ease; /* Transition the color property over 0.5 seconds with an ease timing function */
+    }
+    
+    .box33:hover {
+        color: #053e56; /* Color to transition to on hover */
+    }
+    .box34{
+        color: orange;
+        transition: color 1s ease;
+    }
+    .box34:hover{
+        color:#053e56;
+    }
+    .box35 {
+    display: flex; /* Use flexbox to create a row layout */
+    justify-content: space-between; /* Distribute images evenly along the row */
+    align-items: center; /* Vertically align images in the middle */
+    margin-right: 100px;
+    margin-left: 100px;
+}
+
+.box35 img {
+    width: 100px; /* Adjust the width as needed for your images */
+    height: auto; /* Maintain aspect ratio */
+    margin: 5px;/* Add margin between images for spacing  */
+}
+.box36{
+    border: none;
+    border: rgba(0, 0,0,0);
+    background-color: transparent;
+}
+.box37{
+    color: orange;
+    transition: color 1s ease;
+}
+.box37:hover{
+    color: #053e56;
+
+}
+.box39{
+    display: flex;
+    text-align: center;
+    
+}
+.box40{
+    
+    text-align: center;
+}
+.box41{
+    size: 45px;
+    background-color: skyblue;
+    color: white;
+    border: None;
+    border-radius: 2px;
+    margin-bottom: 9px;
+    margin-left: 5px;
+}
+.box42{
+    size: 45px;
+    background-color: skyblue;
+    color: white;
+    border: None;
+    border-radius: 2px;
+    margin-bottom: 9px;
+    margin-left: 5px;
+}
+.box44{
+    color: orange;
+    transition: color 1s ease;
+}
+.box44:hover{
+    color:  #053e56;
+}
+.box46{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box43{
+    text-align: center;
+}
+.box47{
+    background-color: #4B4F58;
+    height: 350px;
+}
+.box50{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.box31{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.abox61{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.abox71{
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+.box49{
+    padding-left: 40px;
+    padding-top: 50px;
+}
+.box201{
+    color: white;
+    border: orange;
+    border-radius: 2px;
+    size: 30px;
+}
+.box202{
+    color:orange;
+    transition:  color 1s ease;
+}
+.box202:hover{
+    color:#053e56;
+}
+.box203{
+    color: white;
+    background-color: orange ;
+    size: 60px;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+.box204{
+    color: skyblue;
+    transition:  color 0.5s ease;
+}
+.box204:hover{
+    color:#053e56 ;
+}
+.box205{
+    text-align: center;
+}
+.box206{
+    color: white;
+    background-color:skyblue;
+    size: 60px;
+    border-radius: 5px;
+    text-align: center;
+}
+.box207{
+    color: purple;
+    transition:  color 1s ease;
+}
+.box207:hover{
+    color:#053e56;
+}
+.box208{
+    color:white;
+    background-color: purple;
+    size: 60px;
+    border-radius: 5px;
+}
+.box209{
+    justify-content: center;
+}
+.box211 {
+    display: flex;
+    align-items: center;
+    height: 100px;
+    justify-content: space-around;
+}
+
+.box212{
+    margin-bottom: 0px;
+}
+.box401{
+    color: orange;
+    transition: color 1s ease;
+}
+.box401:hover{
+    color: #053e56;
+}
+.box402{
+    margin-left: 20px;
+}
+.box403{
+    margin-left: 25px;
+}
+.box501{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.box601{
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+.box602{
+    text-align: center;
+}
+.box603{
+    text-align: center;
+}
+.box504{
+    border: 1px solid black;
+    color: white;
+    background-color: #053e56;
+    width: fit-content;
+}
+.box701{
+    display: flex;
+    margin-left: 20px;
+}
+.box702{
+    margin-left: 300px;
+    
+}
+.box702 img{
+    height: 500;
+    width: 300;
+}
+.box700{
+    margin-left: 20px;
+}
+.box703{
+    font-size: 50px;
+    color: #053e56;
+    text-align: center;
+}
+.box704{
+    color:#053e56;
+    margin-left: 500px;
+}
+.foot >footer{
+    background-color: #252b33;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 50px;
+    font-family: serif;
+    font-size: 25px;
+    letter-spacing: 1.2px;
+    line-height: 50px;
+    
+}
+footer div{
+    padding: 50px;
+}
+footer p{
+    color: #ffffffb3;
+}
+footer a:hover p{
+    color: #1fb143;
+}
+a{
+    text-decoration: none;
+}
+.box701{
+    text-align: center;
+}
+.box803{
+    color:#053e56;
+    transition: color 1s ease ;
+}
+.box803:hover{
+    color: black;
+}
+.box216{
+display: flex;
+justify-content: center;
+}
